@@ -1,0 +1,1 @@
+1 pull request merged<br>Currently:<br>![pull-shark](images/pull-shark-default.png)
