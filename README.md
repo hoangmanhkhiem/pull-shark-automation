@@ -1,1 +1,1 @@
-856 pull requests merged<br>Currently:<br>![pull-shark](images/pull-shark-silver.png)
+857 pull requests merged<br>Currently:<br>![pull-shark](images/pull-shark-silver.png)
